@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "丸ノ内サディスティック",
-  "base_artist": "Sheena Ringo",
-  "createdAt": "2025-12-02T11:21:56.456331Z",
+  "base_artist": "椎名林檎",
+  "createdAt": "2025-12-18T15:59:18.683908Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -155,78 +155,6 @@
       "artist": "椎名 林檎",
       "has_synced": false,
       "path": "select/pl_01_丸の内サディスティック_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "丸の内サディスティック",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_02_丸の内サディスティック_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "丸ノ内サディスティック",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_03_丸ノ内サディスティック_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "丸の内サディスティック",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_04_丸の内サディスティック_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "丸ノ内サディスティック",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_05_丸ノ内サディスティック_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_6",
-      "source": "petitlyrics",
-      "title": "丸ノ内サディスティック",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_06_丸ノ内サディスティック_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_7",
-      "source": "petitlyrics",
-      "title": "丸ノ内サディスティック",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_07_丸ノ内サディスティック_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_8",
-      "source": "petitlyrics",
-      "title": "丸ノ内サディスティック",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_08_丸ノ内サディスティック_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_9",
-      "source": "petitlyrics",
-      "title": "丸の内サディスティック",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_09_丸の内サディスティック_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_10",
-      "source": "petitlyrics",
-      "title": "丸の内サディスティック",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_10_丸の内サディスティック_椎名_林檎.txt"
     }
   ]
 }
